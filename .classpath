@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.6"/>
+	<classpathentry kind="lib" path="D:/gujw/Workspaces/DeviceBusiness/lib/jcommon-0.8.0.jar"/>
+	<classpathentry kind="lib" path="D:/gujw/Workspaces/DeviceBusiness/lib/jxl.jar"/>
+	<classpathentry kind="lib" path="D:/gujw/Workspaces/DeviceBusiness/lib/log4j-1.2.8.jar"/>
+	<classpathentry kind="lib" path="D:/gujw/Workspaces/DeviceBusiness/lib/mssqlserver.jar"/>
+	<classpathentry kind="lib" path="D:/gujw/Workspaces/DeviceBusiness/lib/ojdbc6.jar"/>
+	<classpathentry kind="lib" path="D:/gujw/Workspaces/DeviceBusiness/lib/ojdbc14.jar"/>
+	<classpathentry kind="lib" path="D:/gujw/Workspaces/DeviceBusiness/lib/SERVLET.JAR"/>
+	<classpathentry kind="lib" path="D:/gujw/Workspaces/DeviceBusiness/lib/uploadbean.jar"/>
+	<classpathentry kind="lib" path="D:/gujw/Workspaces/DeviceBusiness/lib/xmlParserAPIs.jar"/>
+	<classpathentry kind="lib" path="lib/sqljdbc4.jar"/>
+	<classpathentry kind="lib" path="lib/commons-dbutils-1.6.jar"/>
+	<classpathentry kind="lib" path="lib/jcraft.jar"/>
+	<classpathentry kind="lib" path="lib/httpclient-4.5.3.jar"/>
+	<classpathentry kind="lib" path="lib/httpcore-4.4.6.jar"/>
+	<classpathentry kind="lib" path="lib/commons-logging.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
